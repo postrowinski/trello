@@ -114,7 +114,7 @@ $(document).ready(function () {
     board.addColumn(doneColumn);
 
     // CREATE NEW CARDS
-    var card1 = new Card('Create Portolio');
+    var card1 = new Card('Create Portfolio');
     var card2 = new Card('Find job');
     var card3 = new Card('Learn CSS');
     var card4 = new Card('Learn HTML');
